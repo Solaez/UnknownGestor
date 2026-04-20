@@ -17,8 +17,6 @@
 - **Lanzador Integrado:** Ejecuta tus juegos retro directamente desde la aplicación.
 - **Biblioteca Personal:** Guarda tus juegos favoritos para un acceso rápido.
 - **Resolución de Enlaces:** Soporte para 1fichier, Mediafire y más.
-- **Descargas Torrent:** Soporte para descargar torrents mediante magnet usando libtorrent.
-
 
 
 ### 🛠️ Integración de Mods (NexusMods & GameBanana)
@@ -68,3 +66,5 @@ Si deseas clonar el repositorio y compilarlo tú mismo:
    ```bash
    git clone https://github.com/Solaez/UnknownGestor.git
    cd UnknownGestor
+   npm install
+   npm start
