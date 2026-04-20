@@ -34,7 +34,7 @@
 
 | Inicio | Explorador de Mods |
 | :---: | :---: |
-| ![Inicio](docs/screenshots/home.png) | ![Mods](docs/screenshots/mods.png) |
+| ![Inicio](https://github.com/Solaez/UnknownGestor/raw/main/docs/screenshots/home.png) | ![Mods](docs/screenshots/mods.png) |
 
 | Biblioteca de Juegos | Gestor de Descargas |
 | :---: | :---: |
