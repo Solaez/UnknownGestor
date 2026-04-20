@@ -17,6 +17,9 @@
 - **Lanzador Integrado:** Ejecuta tus juegos retro directamente desde la aplicación.
 - **Biblioteca Personal:** Guarda tus juegos favoritos para un acceso rápido.
 - **Resolución de Enlaces:** Soporte para 1fichier, Mediafire y más.
+- **Descargas Torrent:** Soporte para descargar torrents mediante magnet usando libtorrent.
+
+
 
 ### 🛠️ Integración de Mods (NexusMods & GameBanana)
 - **Navegación Fluida:** Explora las mayores comunidades de modding sin salir de la app.
