@@ -23,7 +23,6 @@
 
 ### 🛠️ Integración de Mods (NexusMods & GameBanana)
 - **Navegación Fluida:** Explora las mayores comunidades de modding sin salir de la app.
-- **Modo Limpio (Nexus):** Interfaz optimizada que oculta anuncios y elementos innecesarios.
 - **Búsqueda Avanzada:** Encuentra juegos y mods específicos con buscadores dedicados.
 
 ### ⚡ Potencia Técnica
