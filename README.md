@@ -66,5 +66,3 @@ Si deseas clonar el repositorio y compilarlo tú mismo:
    ```bash
    git clone https://github.com/Solaez/UnknownGestor.git
    cd UnknownGestor
-   npm install
-   npm start
